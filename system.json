@@ -35,7 +35,7 @@
   "primaryTokenAttribute": "HP",
   "secondaryTokenAttribute": "FP",
   "url": "https://github.com/gmsshadow/gurps4e",
-  "manifest": "https://raw.githubusercontent.com/crnormand/gurps/release/system.json",
+  "manifest": "https://raw.githubusercontent.com/gmsshadow/gurps4e/main/system.json",
   "download": "https://github.com/crnormand/gurps/archive/0.7.0.zip",
   "license": "LICENSE.txt"
 }
