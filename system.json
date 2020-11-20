@@ -2,7 +2,7 @@
   "name": "gurps-test",
   "title": "GURPS 4th Edition (Test)",
   "description": "A game aid to help play GURPS 4e for Foundry VTT (GCS/GCA edition)",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "minimumCoreVersion": "0.7.5",
   "compatibleCoreVersion": "0.7.7",
   "templateVersion": 2,
@@ -36,6 +36,6 @@
   "secondaryTokenAttribute": "FP",
   "url": "https://github.com/gmsshadow/gurps4e",
   "manifest": "https://raw.githubusercontent.com/gmsshadow/gurps4e/main/system.json",
-  "download": "https://github.com/crnormand/gurps/archive/0.7.0.zip",
+  "download": "https://github.com/gmsshadow/gurps4e/archive/main.zip",
   "license": "LICENSE.txt"
 }
